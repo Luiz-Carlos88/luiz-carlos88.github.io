@@ -31,7 +31,7 @@ I am a PhD in Electrical Engineering (UNESP) with over 6 years of experience in 
     - Python, Computer Vision (OpenCV), Deep Learning (TensorFlow, PyTorch), AWS (Lambda, S3, RDS, etc.), MLOps (PySpark, Docker, Git), NVIDIA Jetson/DeepStream, and databases like PostgreSQL.
 
 - 📫 **How to reach me:**
-    - **LinkedIn:** [Luiz Carlos Marques Junior](https://www.linkedin.com/in/luiz-carlos-marques-junior-1a8823106)
+    - **LinkedIn:** [Luiz Carlos Marques Junior](https://www.linkedin.com/in/luiz-carlos-marques-junior-5455b128b/)
 
 - ⚡ **Fun fact:**
     - I am the author of a book on Digital Systems.
